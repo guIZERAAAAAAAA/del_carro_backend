@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "del_carro_backend",
+  "description": "coisas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest"
+  },
+  "author": "gui",
+  "license": "ISC"
+}
